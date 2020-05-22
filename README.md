@@ -1,7 +1,5 @@
 #CashGuide 
 
-##Final project for JAVA EE course at ITTalents Season5
-
 ###Used technologies:
 * Java EE
 * Sprin MVC
